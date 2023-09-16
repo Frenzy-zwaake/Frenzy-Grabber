@@ -1,0 +1,21 @@
+[admin.py:29] - 2023-09-16 10:52:37,544 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-16 10:52:37,545 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-16 10:52:37,733 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Frenzyzwaake\\AppData\\Local\\Programs\\Python\\Python39\\python.exe', 'C:\\Users\\Frenzyzwaake\\Desktop\\Frenzy-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-16 10:52:37,734 - INFO - Running command 'C:\\Users\\Frenzyzwaake\\AppData\\Local\\Programs\\Python\\Python39\\python.exe' - 'C:\\Users\\Frenzyzwaake\\Desktop\\Frenzy-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-16 10:52:40,637 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,215 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,215 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,215 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,216 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,216 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,225 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,225 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,225 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,226 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,226 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,235 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,236 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,236 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,236 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-16 10:52:41,236 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:92] - 2023-09-16 10:52:41,340 - INFO - Process handle <PyHANDLE:1668> returned code 1

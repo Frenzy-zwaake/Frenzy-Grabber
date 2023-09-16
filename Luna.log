@@ -1,0 +1,25 @@
+[admin.py:29] - 2023-09-16 10:53:29,425 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-16 10:53:29,426 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-16 10:53:29,495 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Frenzyzwaake\\AppData\\Local\\Programs\\Python\\Python39\\python.exe', 'C:\\Users\\Frenzyzwaake\\Desktop\\Frenzy-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-16 10:53:29,496 - INFO - Running command 'C:\\Users\\Frenzyzwaake\\AppData\\Local\\Programs\\Python\\Python39\\python.exe' - 'C:\\Users\\Frenzyzwaake\\Desktop\\Frenzy-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-09-16 10:53:31,245 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,372 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,372 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,372 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-09-16 10:53:31,373 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:92] - 2023-09-16 10:53:31,472 - INFO - Process handle <PyHANDLE:1664> returned code 1
+[admin.py:29] - 2023-09-16 10:57:50,945 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-09-16 10:57:50,946 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-09-16 10:57:51,004 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Frenzyzwaake\\AppData\\Local\\Programs\\Python\\Python39\\python.exe', 'C:\\Users\\Frenzyzwaake\\Desktop\\Frenzy-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-09-16 10:57:51,004 - INFO - Running command 'C:\\Users\\Frenzyzwaake\\AppData\\Local\\Programs\\Python\\Python39\\python.exe' - 'C:\\Users\\Frenzyzwaake\\Desktop\\Frenzy-Grabber-main\\builder.pyw'
